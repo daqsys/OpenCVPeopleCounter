@@ -8,8 +8,8 @@ Beware because this will not work with your video frame (it will not detect peop
 For better solutions please use a deep learning based SSD (Single Shot Detectors) like YOLO, Mask-RCNN and so on.
 
 There are two files:
- - [cvPeopleCounter.py](https://github.com/issaiass/OpenCVPeopleCounter/imgproc/cvPeopleCounter.py) - The main file
- - [cvPeopleCounter.py](https://github.com/issaiass/OpenCVPeopleCounter/imgproc/imutils.py) - A helper file for resize and other basic functions
+ - [cvPeopleCounter.py](https://github.com/issaiass/OpenCVPeopleCounter/tree/master/imgproc/cvPeopleCounter.py) - The main file
+ - [cvPeopleCounter.py](https://github.com/issaiass/OpenCVPeopleCounter/tree/master/imgproc/imutils.py) - A helper file for resize and other basic functions
 
 ### Which type of software and PC I used?
 
@@ -28,7 +28,7 @@ $ python cvPeopleCounter.py -v <path_to_video> &
 
 Below is a GIF of some frames demonstrating the usage 
 
-![PeopleCounter](https://github.com/issaiass/OpenCVPeopleCounter/imgs/peoplecounter.gif)
+![PeopleCounter](https://github.com/issaiass/OpenCVPeopleCounter/blob/master/imgs/peoplecounter.gif)
 
 **License**
 
