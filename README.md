@@ -9,7 +9,7 @@ For better solutions please use a deep learning based SSD (Single Shot Detectors
 
 There are two files:
  - [cvPeopleCounter.py](https://github.com/issaiass/OpenCVPeopleCounter/tree/master/imgproc/cvPeopleCounter.py) - The main file
- - [cvPeopleCounter.py](https://github.com/issaiass/OpenCVPeopleCounter/tree/master/imgproc/imutils.py) - A helper file for resize and other basic functions
+ - [imutils.py](https://github.com/issaiass/OpenCVPeopleCounter/tree/master/imgproc/imutils.py) - A helper file for resize and other basic functions
 
 ### Which type of software and PC I used?
 
